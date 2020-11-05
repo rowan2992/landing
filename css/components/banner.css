@@ -1,0 +1,22 @@
+
+
+
+
+.banner {
+  background-image: url("../../images/moraine_lake.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 120px;
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: white;
+}
+
+
+
+
